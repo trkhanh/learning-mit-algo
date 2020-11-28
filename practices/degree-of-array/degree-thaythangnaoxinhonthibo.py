@@ -20,4 +20,4 @@ class Solution:
         return result
 
 
-Solution.findShortestSubArray(Solution, [1, 2, 2, 3, 1, 3,3,3, 1, 3,3,3, 1, 3,3,3, 1, 3,3,3, 1, 3,3])
+Solution.findShortestSubArray(Solution, [1, 2, 2, 3, 1, 3, 3, 3, 1, 3])
